@@ -1,5 +1,5 @@
 # Gravity Books Sales End-to-End Project
-
+[!Logo](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/gravity%20logo.png)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Phases](#project-phases)
