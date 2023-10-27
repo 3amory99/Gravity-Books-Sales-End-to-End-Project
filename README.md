@@ -38,16 +38,40 @@ To explore and replicate the project, follow these steps:
 ## ETL Phase
 
 * DDL statements of table creation and the DWH Schema
+  
   * Customer Dimension
+    
     ![DDL Customer Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Customer%20Dim.PNG)
+    
   * Book Dimension
+    
     ![DDL Book Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Book%20Dim.PNG)
+    
    * Shipping Dimension
+     
     ![DDL Shipping Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Shipping%20Dim.PNG)
+  
    * Date Dimension
+     
     ![DDL Date Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Date%20Dim.PNG)
 
 * Detailed instructions for the ETL phase can be found in the [ETL folder](/ETL).
+
+   * Customer Dimension
+   
+    ![ETL Customer Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/ETL%20Customer%20Dim.PNG)
+
+   * Book Dimension
+   
+    ![ETL Book Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/ETL%20Book%20Dim.PNG)
+
+   * Shipping Dimension
+   
+    ![ETL Shipping Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/ETL%20Shipping%20Dim.PNG)
+
+   * Fact Table Full Load
+   
+    ![ETL Fact Table Full Load](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/ETL%20Fact%20Table%20Full%20Load.PNG)
 
 ## Analysis Phase
 To explore the analysis phase, refer to the [Analysis folder](/Analysis).
