@@ -121,8 +121,8 @@ Power BI is a powerful business intelligence tool that delivers interactive and 
 
 These two types of reporting options provide a spectrum of reporting capabilities to suit various user preferences and needs. Whether you prefer the simplicity and familiarity of pivot tables or the dynamic and interactive experience of Power BI, this project offers a range of reporting tools to empower you to extract valuable insights from the data.
 
-## Contributing
-We welcome contributions! If you'd like to improve this project or fix issues, please open a pull request. For major changes, please open an issue to discuss changes and ensure compatibility with the project's vision.
+![PowerBIDashboard](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Gravity%20Book%20Sales%20Power%20BI%20Dashboard.PNG)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
