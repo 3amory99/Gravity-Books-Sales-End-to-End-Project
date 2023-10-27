@@ -60,7 +60,6 @@ To explore and replicate the project, follow these steps:
 
 
 
-
 * Detailed instructions for the ETL phase can be found in the [ETL folder](/ETL).
 
    * Customer Dimension
@@ -98,16 +97,21 @@ The reporting phase in this project is designed to provide users with the flexib
 
 Pivot tables are a well-known and versatile tool within Microsoft Excel, allowing users to analyze, aggregate, and visualize data in a tabular format. This method of reporting is particularly useful when you need to perform basic ad-hoc analysis or create custom reports directly in Excel. With pivot tables, users can slice and dice the data to answer specific questions and gain insights quickly.
 
-    ![Pivot_Table_Insight_1](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%201.PNG)
+* Total Quantity, Total Price, Total Shipping Cost, Total Revenue of the 12 months over all years
 
+![Pivot_Table_Insight_1](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%201.PNG)
 
-    ![Pivot_Table_Insight_2](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%202.PNG)
-
-
-    ![Pivot_Table_Insight_3](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%203.PNG)
-
+* The Best-selling language books
     
-    ![Pivot_Table_Insight_4](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%204.PNG)
+![Pivot_Table_Insight_2](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%202.PNG)
+
+* Total Quantity, Total Price, Total Shipping Cost, Total Revenue of all shipping methods for countries.
+
+![Pivot_Table_Insight_3](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%203.PNG)
+
+* Total Price of all Years
+  
+![Pivot_Table_Insight_4](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%204.PNG)
 
 
 
