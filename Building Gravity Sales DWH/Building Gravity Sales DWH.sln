@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Building Gravity Sales DWH", "Building Gravity Sales DWH.dtproj", "{DCD981A5-57EB-410B-AE92-4D0969976C8B}"
+EndProject
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "Building Gravity Sales OLAP", "..\Building Gravity Sales OLAP\Building Gravity Sales OLAP.smproj", "{8CE414BB-95B2-4C99-9E03-51BA72086E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x86 = Development|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD981A5-57EB-410B-AE92-4D0969976C8B}.Development|x86.ActiveCfg = Development
+		{DCD981A5-57EB-410B-AE92-4D0969976C8B}.Development|x86.Build.0 = Development
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.ActiveCfg = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Build.0 = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Deploy.0 = Development|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964F1D60-AAFE-4ACB-BAE2-F83A82D3A42C}
+	EndGlobalSection
+EndGlobal

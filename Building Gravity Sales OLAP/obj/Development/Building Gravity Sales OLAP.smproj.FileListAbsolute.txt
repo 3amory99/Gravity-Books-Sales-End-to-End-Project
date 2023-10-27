@@ -1,0 +1,9 @@
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\bin\Model.asdatabase
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\bin\Model.deploymenttargets
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\bin\Model.deploymentoptions
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\obj\Development\Building Gravity Sales OLAP.smproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\obj\Development\Building Gravity Sales OLAP.smproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\obj\Development\Building Gravity Sales OLAP.smproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\obj\Development\Model.asdatabase
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\obj\Development\Model.deploymentoptions
+C:\Users\Omar\source\repos\Building Gravity Sales OLAP\obj\Development\Model.deploymenttargets

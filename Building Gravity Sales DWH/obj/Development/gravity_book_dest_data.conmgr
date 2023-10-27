@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="gravity_book_dest_data"
+  DTS:DTSID="{F23B46E8-BE18-4F6B-BB8C-80F9708AC24A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=gravity_books_DWH;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Building Gravity Sales DWH-{F23B46E8-BE18-4F6B-BB8C-80F9708AC24A}LocalHost.gravity_books_DWH;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
