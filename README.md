@@ -36,7 +36,9 @@ To explore and replicate the project, follow these steps:
 3. Follow the instructions in the respective folders for each project phase (ETL, Analysis, Reporting) to set up and execute the code.
 
 ## ETL Phase
-Detailed instructions for the ETL phase can be found in the [ETL folder](/ETL).
+
+* DDL statements of table creation and the DWH Schema
+* Detailed instructions for the ETL phase can be found in the [ETL folder](/ETL).
 
 ## Analysis Phase
 To explore the analysis phase, refer to the [Analysis folder](/Analysis).
