@@ -37,6 +37,7 @@ To explore and replicate the project, follow these steps:
 
 ## ETL Phase
 
+
 * DDL statements of table creation and the DWH Schema
   
   * Customer Dimension
@@ -54,6 +55,11 @@ To explore and replicate the project, follow these steps:
    * Date Dimension
      
     ![DDL Date Dim](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Date%20Dim.PNG)
+
+
+
+
+
 
 * Detailed instructions for the ETL phase can be found in the [ETL folder](/ETL).
 
@@ -75,6 +81,13 @@ To explore and replicate the project, follow these steps:
 
 ## Analysis Phase
 To explore the analysis phase, refer to the [Analysis folder](/Analysis).
+
+This project harnesses the power of SQL Server Analysis Services (SSAS) for advanced data modeling and analysis. In particular, we've employed the Tabular mode of OLAP (Online Analytical Processing) to create efficient data models that cater to our analytical needs.
+
+- **Tabular Mode:** We've chosen to work with the Tabular mode in SSAS. This mode specializes in constructing tabular data models, which provide a streamlined, relational view of the data. It excels in scenarios where data retrieval speed and simplicity are top priorities.
+
+    ![SSAS OLAP](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/Cube%20Browsing%20OLAP.PNG)
+
 
 ## Reporting Phase
 For reporting and visualization using Pivot Table and Power BI, visit the [Reporting folder](/Reporting).
