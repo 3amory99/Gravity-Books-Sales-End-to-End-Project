@@ -92,6 +92,31 @@ This project harnesses the power of SQL Server Analysis Services (SSAS) for adva
 ## Reporting Phase
 For reporting and visualization using Pivot Table and Power BI, visit the [Reporting folder](/Reporting).
 
+The reporting phase in this project is designed to provide users with the flexibility and tools to gain insights from the data. We've incorporated two distinct types of reporting to cater to different user needs:
+
+#### 1. Pivot Table Reporting
+
+Pivot tables are a well-known and versatile tool within Microsoft Excel, allowing users to analyze, aggregate, and visualize data in a tabular format. This method of reporting is particularly useful when you need to perform basic ad-hoc analysis or create custom reports directly in Excel. With pivot tables, users can slice and dice the data to answer specific questions and gain insights quickly.
+
+    ![Pivot_Table_Insight_1](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%201.PNG)
+
+
+    ![Pivot_Table_Insight_2](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%202.PNG)
+
+
+    ![Pivot_Table_Insight_3](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%203.PNG)
+
+    
+    ![Pivot_Table_Insight_4](https://github.com/3amory99/Gravity-Books-Sales-End-to-End-Project/blob/master/Project%20Screenshots/PP%20Insight%204.PNG)
+
+
+
+#### 2. Power BI Dashboard Reporting
+
+Power BI is a powerful business intelligence tool that delivers interactive and dynamic reports, dashboards, and data visualizations. It is designed for self-service reporting, enabling users to explore data intuitively, create compelling visualizations, and share insights with others. Power BI reports are ideal for more in-depth analysis, interactive dashboards, and data-driven storytelling.
+
+These two types of reporting options provide a spectrum of reporting capabilities to suit various user preferences and needs. Whether you prefer the simplicity and familiarity of pivot tables or the dynamic and interactive experience of Power BI, this project offers a range of reporting tools to empower you to extract valuable insights from the data.
+
 ## Contributing
 We welcome contributions! If you'd like to improve this project or fix issues, please open a pull request. For major changes, please open an issue to discuss changes and ensure compatibility with the project's vision.
 
